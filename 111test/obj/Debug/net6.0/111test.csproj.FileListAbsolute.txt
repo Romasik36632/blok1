@@ -1,0 +1,15 @@
+C:\Users\222\Desktop\111test\bin\Debug\net6.0\111test.exe
+C:\Users\222\Desktop\111test\bin\Debug\net6.0\111test.deps.json
+C:\Users\222\Desktop\111test\bin\Debug\net6.0\111test.runtimeconfig.json
+C:\Users\222\Desktop\111test\bin\Debug\net6.0\111test.dll
+C:\Users\222\Desktop\111test\bin\Debug\net6.0\111test.pdb
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.csproj.AssemblyReference.cache
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.AssemblyInfoInputs.cache
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.AssemblyInfo.cs
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.csproj.CoreCompileInputs.cache
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.dll
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\refint\111test.dll
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.pdb
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\111test.genruntimeconfig.cache
+C:\Users\222\Desktop\111test\obj\Debug\net6.0\ref\111test.dll
